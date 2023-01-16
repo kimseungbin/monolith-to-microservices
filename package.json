@@ -1,0 +1,12 @@
+{
+  "name": "monolith-to-microservices",
+  "version": "1.0.0",
+  "description": "Practice repository of converting a monolith service to microservies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SeungBin Kim",
+  "license": "ISC",
+  "type": "module"
+}

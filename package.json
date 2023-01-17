@@ -4,6 +4,7 @@
   "description": "Practice repository of converting a monolith service to microservies",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "SeungBin Kim",
